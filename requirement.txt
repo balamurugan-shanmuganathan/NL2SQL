@@ -1,0 +1,6 @@
+phidata
+duckdb
+kagglehub
+streamlit
+pandas
+google-generativeai
